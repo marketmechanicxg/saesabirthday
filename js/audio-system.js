@@ -14,8 +14,8 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Sampai Jadi Debu',
-    artist:    'Banda Neira',
+    title:     'Ant Art Gallery Could Never Be As Unique As you',
+    artist:    'MRLD',
     file:      'music/song1.mp3',
     cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
